@@ -1,6 +1,6 @@
 # CRASH
 
-###CRASH Complete Model
+### CRASH Complete Model
 This is a complete model for the CRASH scenario based on the documentation and provided code. 
 **Note:** I have tried to change as little as possible but some things had to be changed. I tried to use as many OOP design principles as possible however I didn't want to change every little detial.
 
