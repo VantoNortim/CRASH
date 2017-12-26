@@ -20,4 +20,5 @@ Clone and run.
 
 # Creds
 Do whatever you want with it, for education purposes only ofc :^)
-Smuggest Green 
+
+Smug Green Amphibian
