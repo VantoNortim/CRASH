@@ -15,7 +15,7 @@ This is where the serialised objects are saved.
 I use my custom semi-colon separated file format copied from our SpaceWars coursework. How to use it should be self explanatory.
 
 # Usage
-Clone and run.
+Clone, Import, Run. I used the Teseter class
 
 # Creds
 Do whatever you want with it, for education purposes only ofc :^)
