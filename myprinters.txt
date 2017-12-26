@@ -1,0 +1,9 @@
+laser,LP1,560
+bubblejet,CC2,true
+plain,PC3,400,Xerox,Mary
+plain,PC4,500,Tesco,Jane
+laser,LP7,640
+bubblejet,CC9,false
+
+
+
