@@ -23,6 +23,7 @@ hs_err_pid*
 
 #Intellij stuff
 .idea
+out
 
 #Other
 .iml
