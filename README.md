@@ -13,7 +13,6 @@ This is where the printers text is stored.
 ### Saves
 This is where the serialised objects are saved.
 ### File Loader
-------
 I use my custom semi-colon separated file format copied from our SpaceWars coursework. How to use it should be self explanatory.
 
 # Usage
